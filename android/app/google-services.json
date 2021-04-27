@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860108545920",
+    "firebase_url": "https://wasaweb-65029.firebaseio.com",
+    "project_id": "wasaweb-65029",
+    "storage_bucket": "wasaweb-65029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860108545920:android:f0700caffdbaf33af96b65",
+        "android_client_info": {
+          "package_name": "com.example.wasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860108545920-ra7s3jriq1lu99a0f79tcejqn5ulcu2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVXbWNw-CKvJOWav9sUZ9CBZLLsFM2OZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860108545920-ra7s3jriq1lu99a0f79tcejqn5ulcu2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
